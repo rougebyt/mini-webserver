@@ -67,6 +67,6 @@ The current version uses `epoll` → Linux only.
 MIT
 
 
-© 2026 Moibon Dereje (@rougeByt)
+© 2026 Moibon Dereje
 
 
