@@ -1,6 +1,3 @@
-### README.md
-
-
 # mini-webserver
 
 Tiny, single-file HTTP/1.1 static file server written in pure C 
@@ -69,7 +66,7 @@ The current version uses `epoll` → Linux only.
 
 MIT
 
-Made with ❤️ during the 3-Month Challenge  
+
 © 2026 Moibon Dereje (@rougeByt)
 
 
