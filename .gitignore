@@ -1,0 +1,40 @@
+### .gitignore
+
+```gitignore
+# Binaries
+mini-webserver
+mini-webserver.exe
+
+# Object files
+*.o
+*.obj
+
+# Build directories
+build/
+dist/
+out/
+
+# Temporary files
+*.bak
+*.swp
+*~
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS junk
+.DS_Store
+
+# Windows junk
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Logs / caches
+*.log
+.cache/
+```
+
