@@ -50,12 +50,6 @@ The current version uses `epoll` → Linux only.
 3. Native Windows version (using `select()` instead of epoll) is possible but not included in this repo.
    Let me know if you want a separate `select()`-based branch/version.
 
-### Project Goals
-
-- Demonstrate clean systems programming in C
-- Show efficient I/O multiplexing with epoll
-- Keep codebase small and understandable (<500 LOC)
-- Serve as a learning example for network programming
 
 ### Build Requirements (Linux/WSL)
 
